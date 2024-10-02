@@ -18,8 +18,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kedatech.chivobus"
     },
+    "scheme": "curso-reactnative",
     "web": {
       "favicon": "./assets/favicon.png"
     }
